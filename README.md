@@ -1,1 +1,1 @@
-# [Download here](https://github.com/vsilverman/res/res.docx)
+# [Download here](https://github.com/vsilverman/res/blob/main/res.docx)
